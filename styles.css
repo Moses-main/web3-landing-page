@@ -1,0 +1,30 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background: url("https://th.bing.com/th/id/R.aae112288e7b527e8b949aff88fb4996?rik=4DzbX9a4f8Manw&riu=http%3a%2f%2fwww.biziki.com%2fwp-content%2fuploads%2f2017%2f12%2fHow-to-Earn-Your-Very-First-Cryptocurrency-Coins.jpg&ehk=VQIQpPmIKZMqsL0sqNWUiPv8CgtCNgxRcB9o2FfS7XU%3d&risl=&pid=ImgRaw&r=0")
+    no-repeat center center/cover;
+  height: 100vh;
+  color: white;
+}
+
+.features .card {
+  border: none;
+}
+
+.roadmap .roadmap-item {
+  margin-bottom: 2rem;
+}
+
+.contact .form-control {
+  margin-bottom: 1rem;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+}
